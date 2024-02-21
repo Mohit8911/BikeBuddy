@@ -19,6 +19,10 @@
     color: #D67D3E !important;
 }
 
+.navbar-brand img{
+    mix-blend-mode:multiply;
+}
+
 .navbar .nav-item a:hover{
     border-radius: 10px/30px;
     color: #9C0F48 !important;
